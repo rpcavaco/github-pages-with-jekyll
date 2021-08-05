@@ -2,4 +2,5 @@
 title: "Vamos lá a ver (index)"
 ---
 
-P
+Página inicial do 'blog'
+
