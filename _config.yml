@@ -1,10 +1,8 @@
-title: Grande e massivo título do blog
+title: Grande e massivo título do blog (na config)
 author: RC
 email: rpcavaco@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Grande descrição for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Grande descrição for your new site here. blav asdal asd asd adas da sd asd asdew4 sfsdfr rferg tudo em _config.yml.
 theme: minima
 
 # social links
